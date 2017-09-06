@@ -2,18 +2,24 @@
 
 ## Hey, what is this tool for?
 
-* Might be useless but I am making for fun. This will be convert your csv formatted timetable file to html.
+It may be useless almost everybody, but I am making for fun. This will be convert your csv formatted timetable file to html.
+
+## How to use
+
+```
+python timetable.py > output.html
+```
 
 ## Input files
 
 * Input must consist of two files.
 
-1. Configuration (A YAML file?)
+### Configuration (A YAML file?, not yet)
 
- * Start/end time for each day
- * Length of the slot 
-	  
-2. Items
+- Start/end time for each day
+- Length of the slot 
 
- * Day
- * Start/End time
+### Items
+
+- Day
+- Start/End time
