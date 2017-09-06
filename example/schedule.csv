@@ -1,1 +1,18 @@
-Day	Start	End	Name	Person1	10:00	12:00	Speak something	"John, Doe"
+Day,Start,End,Type,Title,Name
+1,19:30,21:00,Lecture,Systems biomedicine,Rudi Balling
+2,9:00,12:00,Workshop,Genetic resources for neuroscience,Rob Williams
+2,13:30,15:00,Lecture,Genetic stratification and deep phenotyping for precision medicine approaches in Parkinson's disease,Rejko Kruger
+2,15:00,18:00,Activity,Defining projects,
+2,19:30,21:00,Activity,Poster session,
+3,9:00,12:00,Workshop,Allen institute resources,Jeremy Miller
+3,12:00,15:00,Activity,Research Time,
+3,15:00,18:00,Activity,Research topic presentations,
+3,19:30,21:00,Lecture,Quantitative genetics,Karl Broman
+4,9:00,12:00,Workshop,Using genome browsers and networks tools,Victoria Perreau
+4,12:00,18:00,Activity,Research Time,
+4,19:30,21:00,Lecture,Concepts in systems medicine,Gerd Kempermann
+5,8:00,21:00,Activity,Research Time,
+6,8:00,18:00,Activity,Research Time,
+6,19:00,21:00,Activity,Project presentations,
+7,9:00,12:00,Activity,Writing and submission,
+7,13:30,17:00,Activity,Peer review,
